@@ -32,7 +32,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
     *   Variáveis CSS para gerenciamento de tema.
     *   Flexbox para layout.
     *   Design responsivo (em desenvolvimento).
-*   **JavaScript:** Manipulação do DOM, interatividade e consumo de API (não incluído neste repositório, mas é o próximo passo).
+*   **JavaScript:** Manipulação do DOM, interatividade e consumo de API.
 
 ---
 
