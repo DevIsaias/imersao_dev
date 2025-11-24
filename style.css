@@ -1,0 +1,174 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+
+* {
+  box-sizing: border-box;
+  font-family: "Quicksand", sans-serif;
+}
+
+:root {
+  --primary-color: #00a6fb;
+  --secondary-color: #006594;
+  --tertiary-color: #ffbc42;
+  --bg-color: #051923;
+
+  --white-color: #f1f1f1;
+  --contrast-white-color: #8f8f8f;
+
+  --principal-text-size: 3rem;
+  --secundary-text-size: 1.5rem;
+}
+
+a {
+  text-decoration: none;
+  color: var(--tertiary-color);
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--primary-color);
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20%;
+}
+
+#search-area {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 40%;
+  height: 30px;
+  background-color: var(--white-color);
+  border-radius: 30px;
+  overflow: hidden;
+  transition: 0.2s ease-in-out;
+}
+
+#search-area:focus-within {
+  box-shadow: rgb(0, 101, 148, 0.5) 0px 7px 29px 0px;
+}
+
+#logo {
+  font-size: 2rem;
+}
+
+#search-area input {
+  width: 80%;
+  height: 100%;
+  padding: 0 10px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  font-size: 1.3rem;
+  color: var(--contrast-white-color);
+  font-weight: 600;
+}
+
+input::placeholder {
+  color: var(--contrast-white-color);
+}
+
+#buscar-btn {
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  height: 100%;
+  width: auto;
+  border: none;
+  margin-right: 5px;
+  position: relative;
+  cursor: pointer;
+}
+
+#buscar-btn:hover i {
+  color: var(--secondary-color);
+}
+
+#buscar-btn::before {
+  content: "";
+  position: absolute;
+  height: 80%;
+  width: 2px;
+  background-color: var(--contrast-white-color);
+  left: -2px;
+}
+
+#buscar-btn i {
+  font-size: var(--secundary-text-size);
+  color: var(--contrast-white-color);
+}
+
+.container {
+  padding: 10px 20%;
+}
+
+.container-item {
+  display: flex;
+  margin-top: 5px;
+  background-color: var(--secondary-color);
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px 10px 0 0;
+  height: 200px;
+}
+
+.container-item .album-img {
+  height: 100%;
+  border-radius: 10px;
+}
+
+.container-item .album-desc {
+  margin-left: 10px;
+}
+
+.container-item .album-desc .album-name {
+  font-size: var(--principal-text-size);
+  margin-bottom: 5px;
+  color: var(--tertiary-color);
+}
+
+.container-item .album-desc .release-year,
+.container-item .album-desc .learn-more {
+  font-size: var(--secundary-text-size);
+  margin-top: 0px;
+  margin-bottom: 36px;
+  color: var(--tertiary-color);
+}
+
+.container-item .album-desc .learn-more {
+    border-radius: 10px;
+    background-color: var(--primary-color);
+    border: none;
+    color: var(--white-color);
+    cursor: pointer;
+}
+
+.musics-list {
+  background-color: var(--secondary-color);
+  margin: 0;
+  padding: 5px 10px;
+  border-radius: 0px 0px 10px 10px;
+  display: none;
+}
+
+.musics-list.visible {
+  display: block;
+}
+
+.musics-list li {
+  font-size: var(--secundary-text-size);
+  margin: 10px 0 10px 0;
+}
+
+footer {
+    text-align: center;
+    font-size: var(--secundary-text-size);
+}

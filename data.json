@@ -1,0 +1,185 @@
+[
+  {
+    "id": 1,
+    "nome": "Parachutes",
+    "ano_lancamento": 2000,
+    "capa_url": "https://upload.wikimedia.org/wikipedia/pt/thumb/6/6c/Parachutes.jpg/250px-Parachutes.jpg",
+    "musicas": [
+      { "titulo": "Don't Panic", "url": "https://genius.com/Coldplay-dont-panic-lyrics" },
+      { "titulo": "Shiver", "url": "https://genius.com/Coldplay-shiver-lyrics" },
+      { "titulo": "Spies", "url": "https://genius.com/Coldplay-spies-lyrics" },
+      { "titulo": "Sparks", "url": "https://genius.com/Coldplay-sparks-lyrics" },
+      { "titulo": "Yellow", "url": "https://genius.com/Coldplay-yellow-lyrics" },
+      { "titulo": "Trouble", "url": "https://genius.com/Coldplay-trouble-lyrics" },
+      { "titulo": "Parachutes", "url": "https://genius.com/Coldplay-parachutes-lyrics" },
+      { "titulo": "High Speed", "url": "https://genius.com/Coldplay-high-speed-lyrics" },
+      { "titulo": "We Never Change", "url": "https://genius.com/Coldplay-we-never-change-lyrics" },
+      { "titulo": "Everything's Not Lost", "url": "https://genius.com/Coldplay-everythings-not-lost-lyrics" }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "A Rush of Blood to the Head",
+    "ano_lancamento": 2002,
+    "capa_url": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/45/A_Rush_of_Blood_to_the_Head.jpg/250px-A_Rush_of_Blood_to_the_Head.jpg",
+    "musicas": [
+      { "titulo": "Politik", "url": "https://genius.com/Coldplay-politik-lyrics" },
+      { "titulo": "In My Place", "url": "https://genius.com/Coldplay-in-my-place-lyrics" },
+      { "titulo": "God Put a Smile upon Your Face", "url": "https://genius.com/Coldplay-god-put-a-smile-upon-your-face-lyrics" },
+      { "titulo": "The Scientist", "url": "https://genius.com/Coldplay-the-scientist-lyrics" },
+      { "titulo": "Clocks", "url": "https://genius.com/Coldplay-clocks-lyrics" },
+      { "titulo": "Daylight", "url": "https://genius.com/Coldplay-daylight-lyrics" },
+      { "titulo": "Green Eyes", "url": "https://genius.com/Coldplay-green-eyes-lyrics" },
+      { "titulo": "Warning Sign", "url": "https://genius.com/Coldplay-warning-sign-lyrics" },
+      { "titulo": "A Whisper", "url": "https://genius.com/Coldplay-a-whisper-lyrics" },
+      { "titulo": "A Rush of Blood to the Head", "url": "https://genius.com/Coldplay-a-rush-of-blood-to-the-head-lyrics" },
+      { "titulo": "Amsterdam", "url": "https://genius.com/Coldplay-amsterdam-lyrics" }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "X&Y",
+    "ano_lancamento": 2005,
+    "capa_url": "https://upload.wikimedia.org/wikipedia/en/2/28/Coldplay_X%26Y.svg",
+    "musicas": [
+      { "titulo": "Square One", "url": "https://genius.com/Coldplay-square-one-lyrics" },
+      { "titulo": "What If", "url": "https://genius.com/Coldplay-what-if-lyrics" },
+      { "titulo": "White Shadows", "url": "https://genius.com/Coldplay-white-shadows-lyrics" },
+      { "titulo": "Fix You", "url": "https://genius.com/Coldplay-fix-you-lyrics" },
+      { "titulo": "Talk", "url": "https://genius.com/Coldplay-talk-lyrics" },
+      { "titulo": "X&Y", "url": "https://genius.com/Coldplay-x-and-y-lyrics" },
+      { "titulo": "Speed of Sound", "url": "https://genius.com/Coldplay-speed-of-sound-lyrics" },
+      { "titulo": "A Message", "url": "https://genius.com/Coldplay-a-message-lyrics" },
+      { "titulo": "Low", "url": "https://genius.com/Coldplay-low-lyrics" },
+      { "titulo": "The Hardest Part", "url": "https://genius.com/Coldplay-the-hardest-part-lyrics" },
+      { "titulo": "Swallowed in the Sea", "url": "https://genius.com/Coldplay-swallowed-in-the-sea-lyrics" },
+      { "titulo": "Twisted Logic", "url": "https://genius.com/Coldplay-twisted-logic-lyrics" }
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Viva la Vida or Death and All His Friends",
+    "ano_lancamento": 2008,
+    "capa_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Coldplay_-_Viva_la_Vida_or_Death_and_All_His_Friends.png/250px-Coldplay_-_Viva_la_Vida_or_Death_and_All_His_Friends.png",
+    "musicas": [
+      { "titulo": "Life in Technicolor", "url": "https://genius.com/Coldplay-life-in-technicolor-lyrics" },
+      { "titulo": "Cemeteries of London", "url": "https://genius.com/Coldplay-cemeteries-of-london-lyrics" },
+      { "titulo": "Lost!", "url": "https://genius.com/Coldplay-lost-lyrics" },
+      { "titulo": "42", "url": "https://genius.com/Coldplay-42-lyrics" },
+      { "titulo": "Lovers in Japan", "url": "https://genius.com/Coldplay-lovers-in-japan-lyrics" },
+      { "titulo": "Yes", "url": "https://genius.com/Coldplay-yes-lyrics" },
+      { "titulo": "Viva la Vida", "url": "https://genius.com/Coldplay-viva-la-vida-lyrics" },
+      { "titulo": "Violet Hill", "url": "https://genius.com/Coldplay-violet-hill-lyrics" },
+      { "titulo": "Strawberry Swing", "url": "https://genius.com/Coldplay-strawberry-swing-lyrics" },
+      { "titulo": "Death and All His Friends", "url": "https://genius.com/Coldplay-death-and-all-his-friends-lyrics" }
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Mylo Xyloto",
+    "ano_lancamento": 2011,
+    "capa_url": "https://upload.wikimedia.org/wikipedia/pt/thumb/7/77/Myloxyloto.jpg/250px-Myloxyloto.jpg",
+    "musicas": [
+      { "titulo": "Hurts Like Heaven", "url": "https://genius.com/Coldplay-hurts-like-heaven-lyrics" },
+      { "titulo": "Paradise", "url": "https://genius.com/Coldplay-paradise-lyrics" },
+      { "titulo": "Charlie Brown", "url": "https://genius.com/Coldplay-charlie-brown-lyrics" },
+      { "titulo": "Us Against the World", "url": "https://genius.com/Coldplay-us-against-the-world-lyrics" },
+      { "titulo": "Every Teardrop Is a Waterfall", "url": "https://genius.com/Coldplay-every-teardrop-is-a-waterfall-lyrics" },
+      { "titulo": "Major Minus", "url": "https://genius.com/Coldplay-major-minus-lyrics" },
+      { "titulo": "U.F.O.", "url": "https://genius.com/Coldplay-ufo-lyrics" },
+      { "titulo": "Princess of China", "url": "https://genius.com/Coldplay-and-rihanna-princess-of-china-lyrics" },
+      { "titulo": "Up in Flames", "url": "https://genius.com/Coldplay-up-in-flames-lyrics" },
+      { "titulo": "Don't Let It Break Your Heart", "url": "https://genius.com/Coldplay-dont-let-it-break-your-heart-lyrics" }
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Ghost Stories",
+    "ano_lancamento": 2014,
+    "capa_url": "https://upload.wikimedia.org/wikipedia/pt/thumb/5/5d/Coldplay_-_Ghost_Stories.jpg/250px-Coldplay_-_Ghost_Stories.jpg",
+    "musicas": [
+      { "titulo": "Always in My Head", "url": "https://genius.com/Coldplay-always-in-my-head-lyrics" },
+      { "titulo": "Magic", "url": "https://genius.com/Coldplay-magic-lyrics" },
+      { "titulo": "Ink", "url": "https://genius.com/Coldplay-ink-lyrics" },
+      { "titulo": "True Love", "url": "https://genius.com/Coldplay-true-love-lyrics" },
+      { "titulo": "Midnight", "url": "https://genius.com/Coldplay-midnight-lyrics" },
+      { "titulo": "Another's Arms", "url": "https://genius.com/Coldplay-anothers-arms-lyrics" },
+      { "titulo": "Oceans", "url": "https://genius.com/Coldplay-oceans-lyrics" },
+      { "titulo": "A Sky Full of Stars", "url": "https://genius.com/Coldplay-a-sky-full-of-stars-lyrics" },
+      { "titulo": "O", "url": "https://genius.com/Coldplay-o-lyrics" }
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "A Head Full of Dreams",
+    "ano_lancamento": 2015,
+    "capa_url": "https://upload.wikimedia.org/wikipedia/en/3/3d/Coldplay_-_A_Head_Full_of_Dreams.png",
+    "musicas": [
+      { "titulo": "A Head Full of Dreams", "url": "https://genius.com/Coldplay-a-head-full-of-dreams-lyrics" },
+      { "titulo": "Birds", "url": "https://genius.com/Coldplay-birds-lyrics" },
+      { "titulo": "Hymn for the Weekend", "url": "https://genius.com/Coldplay-hymn-for-the-weekend-lyrics" },
+      { "titulo": "Everglow", "url": "https://genius.com/Coldplay-everglow-lyrics" },
+      { "titulo": "Adventure of a Lifetime", "url": "https://genius.com/Coldplay-adventure-of-a-lifetime-lyrics" },
+      { "titulo": "Fun", "url": "https://genius.com/Coldplay-fun-lyrics" },
+      { "titulo": "Kaleidoscope", "url": "https://genius.com/Coldplay-kaleidoscope-lyrics" },
+      { "titulo": "Army of One", "url": "https://genius.com/Coldplay-army-of-one-lyrics" },
+      { "titulo": "Amazing Day", "url": "https://genius.com/Coldplay-amazing-day-lyrics" },
+      { "titulo": "Up&Up", "url": "https://genius.com/Coldplay-upandup-lyrics" }
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Everyday Life",
+    "ano_lancamento": 2019,
+    "capa_url": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/8e/Coldplay_-_Everyday_Life.png/250px-Coldplay_-_Everyday_Life.png",
+    "musicas": [
+      { "titulo": "Sunrise", "url": "https://genius.com/Coldplay-sunrise-lyrics" },
+      { "titulo": "Church", "url": "https://genius.com/Coldplay-church-lyrics" },
+      { "titulo": "Trouble in Town", "url": "https://genius.com/Coldplay-trouble-in-town-lyrics" },
+      { "titulo": "Broken", "url": "https://genius.com/Coldplay-broken-lyrics" },
+      { "titulo": "Daddy", "url": "https://genius.com/Coldplay-daddy-lyrics" },
+      { "titulo": "Arabesque", "url": "https://genius.com/Coldplay-arabesque-lyrics" },
+      { "titulo": "When I Need a Friend", "url": "https://genius.com/Coldplay-when-i-need-a-friend-lyrics" },
+      { "titulo": "Guns", "url": "https://genius.com/Coldplay-guns-lyrics" },
+      { "titulo": "Orphans", "url": "https://genius.com/Coldplay-orphans-lyrics" },
+      { "titulo": "Èkó", "url": "https://genius.com/Coldplay-eko-lyrics" },
+      { "titulo": "Cry Cry Cry", "url": "https://genius.com/Coldplay-cry-cry-cry-lyrics" },
+      { "titulo": "Old Friends", "url": "https://genius.com/Coldplay-old-friends-lyrics" },
+      { "titulo": "Champion of the World", "url": "https://genius.com/Coldplay-champion-of-the-world-lyrics" },
+      { "titulo": "Everyday Life", "url": "https://genius.com/Coldplay-everyday-life-lyrics" }
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Music of the Spheres",
+    "ano_lancamento": 2021,
+    "capa_url": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/8d/Coldplay_-_Music_of_the_Spheres.jpeg/250px-Coldplay_-_Music_of_the_Spheres.jpeg",
+    "musicas": [
+      { "titulo": "Higher Power", "url": "https://genius.com/Coldplay-higher-power-lyrics" },
+      { "titulo": "Humankind", "url": "https://genius.com/Coldplay-humankind-lyrics" },
+      { "titulo": "Let Somebody Go", "url": "https://genius.com/Coldplay-and-selena-gomez-let-somebody-go-lyrics" },
+      { "titulo": "Human Heart", "url": "https://genius.com/Coldplay-and-we-are-king-human-heart-lyrics" },
+      { "titulo": "People of the Pride", "url": "https://genius.com/Coldplay-people-of-the-pride-lyrics" },
+      { "titulo": "Biutyful", "url": "https://genius.com/Coldplay-biutyful-lyrics" },
+      { "titulo": "My Universe", "url": "https://genius.com/Coldplay-and-bts-my-universe-lyrics" },
+      { "titulo": "Coloratura", "url": "https://genius.com/Coldplay-coloratura-lyrics" }
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Moon Music",
+    "ano_lancamento": 2024,
+    "capa_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Coldplay_-_Moon_Music_%28Official_Album_Artwork%29.png/250px-Coldplay_-_Moon_Music_%28Official_Album_Artwork%29.png",
+    "musicas": [
+      { "titulo": "Moon Music", "url": "https://genius.com/Coldplay-moon-music-lyrics" },
+      { "titulo": "feelslikeimfallinginlove", "url": "https://genius.com/Coldplay-feelslikeimfallinginlove-lyrics" },
+      { "titulo": "We Pray", "url": "https://genius.com/Coldplay-we-pray-lyrics" },
+      { "titulo": "Jupiter", "url": "https://genius.com/Coldplay-jupiter-lyrics" },
+      { "titulo": "Good Feelings", "url": "https://genius.com/Coldplay-good-feelings-lyrics" },
+      { "titulo": "iAAM", "url": "https://genius.com/Coldplay-iaam-lyrics" },
+      { "titulo": "Aeterna", "url": "https://genius.com/Coldplay-aeterna-lyrics" },
+      { "titulo": "All My Love", "url": "https://genius.com/Coldplay-all-my-love-lyrics" },
+      { "titulo": "One World", "url": "https://genius.com/Coldplay-one-world-lyrics" }
+    ]
+  }
+]
